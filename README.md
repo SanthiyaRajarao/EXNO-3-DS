@@ -101,7 +101,7 @@ df["Moderate Negative Skew"]=qt.fit_transform(df[["Moderate Negative Skew"]])
 sm.qqplot(df["Moderate Negative Skew"],line='45')
 ```
 ![image](https://github.com/user-attachments/assets/074767ee-9fff-4600-9a6e-967bcd7a3810)
-![image](https://github.com/user-attachments/assets/7767b1ec-e7a1-4f25-b7a6-da1812a09248)
+
 
 
 # RESULT:
